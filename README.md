@@ -20,6 +20,9 @@ cd Kali-Nethunter-Termux
 bash kali-nethunter-phantom.sh
 ```
 
+## installation video
+https://www.instagram.com/reel/C5YPCU9Svb5/?igsh=MXQwZGowbno0NnNncA==
+
 ## Thanks for Using my Tool
 
 ### Any Error or Prblm u can Contact us
